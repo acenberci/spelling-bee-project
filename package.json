@@ -10,9 +10,6 @@
     "build": "cd ui_client && npm run build"
   },
   "dependencies": {
-    "concurrently": "^8.2.2",
-    "i18next": "^23.11.4",
-    "i18next-browser-languagedetector": "^8.0.0",
-    "react-i18next": "^14.1.1"
+    "concurrently": "^8.2.2"
   }
 }
